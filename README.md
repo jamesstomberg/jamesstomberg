@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+I'm currently learning a lot at Mittuniversitet in Sweden 🌱
+
+As of 2023-01-17 I have finished 1/4 of the educational program called TWEUG on my way to become a professional web developer.
+
+📫 Reach me by email jast2202@student.miun.se
+
 <!--
 **jamesstomberg/jamesstomberg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
